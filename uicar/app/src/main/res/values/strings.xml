@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">uicar</string>
+    <string name="action_settings">Bluetooth Encender</string>
+    <string name="action_list">Lista bluetooths</string>
+    <string name="title_activity_bluetooth_list">Lista de Bluetooth</string>
+    <string name="title_activity_suma">suma</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
